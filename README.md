@@ -1,4 +1,4 @@
-📄 # Television Database System – NCA Digitalization Project
+📄  #Television Database System – NCA Digitalization Project
 
 This project designs and documents a database system for the National Communication Authority (NCA) of Ghana to manage and regulate television broadcasting activities. The database aims to streamline the NCA’s regulatory activities, provide transparency, and support policy-making for the television ecosystem in Ghana.
 
