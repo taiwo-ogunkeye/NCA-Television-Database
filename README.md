@@ -1,8 +1,8 @@
-📄  #Television Database System – NCA Digitalization Project
+# Television Database System – NCA Digitalization Project
 
 This project designs and documents a database system for the National Communication Authority (NCA) of Ghana to manage and regulate television broadcasting activities. The database aims to streamline the NCA’s regulatory activities, provide transparency, and support policy-making for the television ecosystem in Ghana.
 
-📌 ## Project Objectives
+## Project Objectives
 
 - Digitalize and centralize data about TV stations, programs, advertisements, sponsors, producers, and presenters.
 
@@ -10,7 +10,7 @@ This project designs and documents a database system for the National Communicat
 
 - Enable data-driven policy development and revenue estimation for taxation purposes.
 
-🏗 ## Database Features
+🏗 Database Features
 
 - Manage contact information of presenters, producers, and sponsors.
 
@@ -22,13 +22,13 @@ Record program schedules, including news and documentary air times.
 
 - Filter ads based on cost thresholds.
 
-📊 ## Design
+📊 Design
 
 - EER Diagram: Captures the relationships between television stations, programs, sponsors, ads, producers, and presenters.
 
 - Logical Tables: Includes strong entities (Person, Sponsors, Television_Station, Program, Advertisements, Schedule), specialization/generalization tables (Producer, Movie, News, Presenter, Documentary), and associative tables (Program_Ad, Telephone).
 
-🛠 ## Key Technology
+🛠 Key Technology
 
 - Entity-Relationship (EER) modeling
 
